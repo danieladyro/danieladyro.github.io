@@ -1,12 +1,12 @@
 {
     "collab_server" : "",
     "contents" : "---\ntitle: \"about.Rmd\"\n---\nMore about this website\n",
-    "created" : 1535737102947.000,
+    "created" : 1535746069453.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "3595835920",
-    "id" : "7136F139",
+    "id" : "585C9DF3",
     "lastKnownWriteTime" : 1535680442,
     "last_content_update" : 1535680442,
     "path" : "~/Dropbox/github/danieladyro.github.io/danieladyro.github.io/about.Rmd",
@@ -14,7 +14,7 @@
     "properties" : {
         "tempName" : "Untitled1"
     },
-    "relative_order" : 3,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

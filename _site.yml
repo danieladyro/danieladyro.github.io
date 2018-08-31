@@ -1,6 +1,7 @@
-name: "my-website"
+name: "Daniel's website"
+output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Daniel's website"
   left:
     - text: "Home"
       href: index.html
@@ -8,3 +9,7 @@ navbar:
       href: about.html
     - text: "otherPage"
       href: otherPage.html
+output:
+    html_document:
+        theme: cosmo
+        highlight: textmate      

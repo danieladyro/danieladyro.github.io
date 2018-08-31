@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"Daniel's website\"\noutput_dir: \".\"\nnavbar:\n  title: \"Daniel's website\"\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"About\"\n      href: about.html\n    - text: \"otherPage\"\n      href: otherPage.html\noutput:\n    html_document:\n        theme: cosmo\n        highlight: textmate      ",
+    "created" : 1535745047590.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2060231546",
+    "id" : "2E66AAB7",
+    "lastKnownWriteTime" : 1535746512,
+    "last_content_update" : 1535746512254,
+    "path" : "~/Dropbox/github/danieladyro.github.io/danieladyro.github.io/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
