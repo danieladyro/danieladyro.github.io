@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"otherPage.Rmd\"\noutput: html_document\n---\naqui una tercera pagina del website\n",
+    "created" : 1535743413081.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "357574687",
+    "id" : "CF626F55",
+    "lastKnownWriteTime" : 1535743447,
+    "last_content_update" : 1535743447933,
+    "path" : "~/Dropbox/github/danieladyro.github.io/danieladyro.github.io/otherPage.Rmd",
+    "project_path" : "otherPage.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

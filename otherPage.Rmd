@@ -1,0 +1,5 @@
+---
+title: "otherPage.Rmd"
+output: html_document
+---
+aqui una tercera pagina del website
