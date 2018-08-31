@@ -1,9 +1,8 @@
 ---
 title: "My website"
-output: html_document
 ---
 
-Hellow, Website!
+Hello w, Website!
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
