@@ -3,6 +3,7 @@ title: "Daniel's website "
 ---
 
 Hello w, Website!
+Por ejemplo, aqui no esta funcionando
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

@@ -2,3 +2,4 @@
 title: "otherPage.Rmd"
 ---
 aqui una tercera pagina del website
+aqui quiero ver si funciona

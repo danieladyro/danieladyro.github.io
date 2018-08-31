@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"otherPage.Rmd\"\n---\naqui una tercera pagina del website\n",
+    "contents" : "---\ntitle: \"otherPage.Rmd\"\n---\naqui una tercera pagina del website\naqui quiero ver si funciona\n",
     "created" : 1535746062673.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3549350458",
+    "hash" : "4054707948",
     "id" : "EC07FF25",
-    "lastKnownWriteTime" : 1535744354,
-    "last_content_update" : 1535744354,
+    "lastKnownWriteTime" : 1535748868,
+    "last_content_update" : 1535748868566,
     "path" : "~/Dropbox/github/danieladyro.github.io/danieladyro.github.io/otherPage.Rmd",
     "project_path" : "otherPage.Rmd",
     "properties" : {
