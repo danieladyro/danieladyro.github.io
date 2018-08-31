@@ -1,4 +1,4 @@
 ---
-title: "about.Rmd"
+title: "Survival Analysis"
 ---
 More about this website

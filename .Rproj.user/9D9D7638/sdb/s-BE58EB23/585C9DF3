@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"about.Rmd\"\n---\nMore about this website\n",
+    "contents" : "---\ntitle: \"Survival Analysis\"\n---\nMore about this website\n",
     "created" : 1535746069453.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3595835920",
+    "hash" : "2760902236",
     "id" : "585C9DF3",
-    "lastKnownWriteTime" : 1535680442,
-    "last_content_update" : 1535680442,
+    "lastKnownWriteTime" : 1535748061,
+    "last_content_update" : 1535748061954,
     "path" : "~/Dropbox/github/danieladyro.github.io/danieladyro.github.io/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
